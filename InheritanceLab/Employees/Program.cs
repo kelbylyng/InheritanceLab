@@ -12,8 +12,8 @@ namespace CPRG211E_Lab2
     /// <summary>
     /// CPRG211 Lab 2: Inheritance
     /// </summary>
-    /// <remarks>Author: </remarks>
-    /// <remarks>Date: </remarks>
+    /// <remarks>Author: Jonathon Lyng </remarks>
+    /// <remarks>Date: Feb 02,2023 </remarks>
     internal class Program
     {
         static void Main(string[] args)
