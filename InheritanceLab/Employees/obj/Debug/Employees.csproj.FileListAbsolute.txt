@@ -1,0 +1,9 @@
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\bin\Debug\employees.txt
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\bin\Debug\CPRG211E-Lab2.exe.config
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\bin\Debug\CPRG211E-Lab2.exe
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\bin\Debug\CPRG211E-Lab2.pdb
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\obj\Debug\Employees.csproj.SuggestedBindingRedirects.cache
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\obj\Debug\CPRG211E-Lab2.exe
+C:\Users\twist\Documents\School\Winter 2023\OOP2\EmployeesLabE-master\Employees\obj\Debug\CPRG211E-Lab2.pdb
